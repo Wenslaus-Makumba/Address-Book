@@ -25,7 +25,6 @@ $ source virtual/bin/activate
 - A user can search for contacts.
 - A user should be prompted after a new signup
 - A user should receive an email after signing up
-- The pizza shop should be able to update his contacts and addresses
 
 #### **Technologies used**
 1. Flask
