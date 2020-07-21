@@ -1,8 +1,8 @@
-### **address book SYSTEM**
+### **ADDRESS BOOK SYSTEM**
 
 ****
 
-####      && , (2) [Mishael Ndegwa](https://github.com/mishael254)
+####      && , (1) [Mishael Ndegwa](https://github.com/mishael254)
 
 #### **Description**
 This is an online archive system for storing new addresses for customers.
